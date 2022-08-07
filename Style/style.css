@@ -192,12 +192,13 @@ footer {
     color: white;
     text-align: center;
     font-size: 0.8em;
-    padding: 15px;
+    padding: 10px;
 }
 
 footer a {
     text-decoration: none;
-    color: white;
+    color: #5cd5e2;
+    font-weight: bold;
 }
 
 footer a:hover {
